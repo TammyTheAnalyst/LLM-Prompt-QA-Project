@@ -8,10 +8,8 @@ It reflects real-world work I do at Telus, where I review and score AI outputs a
 
 ## 📌 Project Goal
 
-To evaluate responses from GPT using LangChain and Python, and build a lightweight scoring system to judge:
-- Clarity
-- Factual accuracy
-- Tone and relevance
+I evaluated outputs from OpenAI’s GPT-4 using LangChain and Python to assess tone, clarity, and accuracy.
+
 
 ---
 
