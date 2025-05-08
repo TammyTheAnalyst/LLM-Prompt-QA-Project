@@ -47,8 +47,9 @@ This kind of work is used in:
 
 - [x] Create GitHub repo  
 - [x] Add folders  
-- [ ] Write first prompt  
-- [ ] Run it using LangChain  
-- [ ] Score the output  
-- [ ] Take screenshots  
+- [x] Write first prompt  
+- [x] Run it using LangChain  
+- [x] Score the output  
+- [x] Take screenshots  
 - [ ] Publish on LinkedIn  
+
