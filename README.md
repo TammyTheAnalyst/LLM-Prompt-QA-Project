@@ -51,5 +51,17 @@ This kind of work is used in:
 - [x] Run it using LangChain  
 - [x] Score the output  
 - [x] Take screenshots  
-- [ ] Publish on LinkedIn  
+- [ ] Publish on LinkedIn
+
+---
+
+🚀 Why This Project Matters to Employers (for Recruiters)
+
+✅ I evaluated GPT-4 outputs using LangChain and Python — simulating real-world prompt QA workflows
+
+✅ I built a scoring system to assess tone, clarity, and factual accuracy, based on methods I used when grading AI outputs at Telus
+
+✅ I worked end-to-end: writing prompts, running model responses, and structuring results for review
+
+✅ This project demonstrates my hands-on ability to review LLM responses using modern tools and methods
 
