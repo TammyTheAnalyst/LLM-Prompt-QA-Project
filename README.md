@@ -20,13 +20,7 @@ I evaluated outputs from OpenAI’s GPT-4 using LangChain and Python to assess t
 - Google Colab
 - GitHub
 
----
 
-## 📂 Project Structure
-
-- `notebook/`: where the code and LangChain test lives  
-- `images/`: screenshots for documentation and GitHub visuals  
-- `data/`: (optional) saved scores and evaluations
 
 ---
 
@@ -38,6 +32,14 @@ This kind of work is used in:
 - Prompt QA Reviewer
 - NLP Data Specialist
 - Human-in-the-Loop (HITL) QA Assistant
+
+---
+
+## 📂 Project Structure
+
+- `notebook/`: where the code and LangChain test lives  
+- `images/`: screenshots for documentation and GitHub visuals  
+- `data/`: (optional) saved scores and evaluations
 
 ---
 
