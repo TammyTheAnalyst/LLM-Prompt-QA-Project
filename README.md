@@ -1,15 +1,17 @@
 # LLM Prompt QA Project
 
-This project simulates how AI teams evaluate GPT-4 responses for accuracy, tone, clarity, and helpfulness.
+This project simulates how AI teams evaluate GPT-4 responses for clarity, accuracy, tone, and helpfulness — using Python and LangChain.
 
-It reflects real-world work I do at Telus, where I review and score AI outputs across text, voice, and visual content.
+It reflects real-world work I’ve done reviewing and scoring AI-generated content across text, voice, and search-based outputs.
 
 ---
 
 ## 📌 Project Goal
 
-I evaluated outputs from OpenAI’s GPT-4 using LangChain and Python to assess tone, clarity, and accuracy.
-
+Evaluate GPT-4 outputs using LangChain and Python, and build a scoring system to assess:
+- ✍️ Clarity  
+- 📊 Factual Accuracy  
+- 🎯 Tone & Relevance
 
 ---
 
@@ -21,9 +23,9 @@ I evaluated outputs from OpenAI’s GPT-4 using LangChain and Python to assess t
 
 - Python
 - LangChain
+- OpenAI API 
 - Google Colab
 - GitHub
-
 
 
 ---
@@ -31,6 +33,7 @@ I evaluated outputs from OpenAI’s GPT-4 using LangChain and Python to assess t
 ## 🎯 Relevant Job Titles
 
 This kind of work is used in:
+
 - LLM Evaluation Specialist
 - AI Content QA Analyst
 - Prompt QA Reviewer
@@ -55,17 +58,13 @@ This kind of work is used in:
 - [x] Run it using LangChain  
 - [x] Score the output  
 - [x] Take screenshots  
-- [ ] Publish on LinkedIn
+- [x] Publish on LinkedIn
 
 ---
 
-🚀 Why This Project Matters to Employers (for Recruiters)
+## 🚀 Why This Project Matters to Employers (for Recruiters)
 
-✅ I evaluated GPT-4 outputs using LangChain and Python — simulating real-world prompt QA workflows
-
-✅ I built a scoring system to assess tone, clarity, and factual accuracy, based on methods I used when grading AI outputs at Telus
-
-✅ I worked end-to-end: writing prompts, running model responses, and structuring results for review
-
-✅ This project demonstrates my hands-on ability to review LLM responses using modern tools and methods
-
+- ✅ Evaluated GPT-4 responses using LangChain, Python, and the OpenAI API — simulating real-world LLM QA workflows 
+- ✅ Built a structured scoring system for tone, clarity, and factual accuracy, based on prior AI evaluation work  
+- ✅ Managed the full pipeline: from prompt creation to response analysis and final scoring  
+- ✅ Demonstrates hands-on ability to evaluate large language models using modern tools and human-in-the-loop practices
