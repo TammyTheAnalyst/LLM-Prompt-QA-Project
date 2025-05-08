@@ -13,6 +13,10 @@ I evaluated outputs from OpenAI’s GPT-4 using LangChain and Python to assess t
 
 ---
 
+![](https://github.com/TammyTheAnalyst/LLM-Prompt-QA-Project/blob/main/images/Screenshot%20(4689).png)
+
+---
+
 ## 🛠️ Tools Used
 
 - Python
